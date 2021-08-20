@@ -20,7 +20,7 @@
       "default_icon": "pngegg.png",
       "default_popup": "popup.html"
   },
-  "permissions": ["tabs", "storage", "http://www.facebook.com/*",
+  "permissions": ["http://www.facebook.com/*",
 		"https://www.facebook.com/*",
 		"http://web.facebook.com/*",
 		"https://web.facebook.com/*"]
