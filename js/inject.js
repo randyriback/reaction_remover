@@ -17,6 +17,7 @@ rem2();
 
 
 
+
 var scrollThings = function () {
     window.addEventListener("scroll", event => {
       rem();
@@ -27,7 +28,7 @@ var scrollThings = function () {
 
 
 
-// set interval fail !
+// set interval approach
 
 // chrome.runtime.onMessage.addListener(
 //     function(request, sender, sendResponse) {
